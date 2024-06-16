@@ -20,8 +20,8 @@ function HeroBanner() {
           <img src={Insta} alt="" className='h-8 w-8 p-1'/>
         </div>
       </div>
-      <div className="">
-        <img src={Herobanner} alt="" className=''/>
+      <div className="h-4/5 w-3/5">
+        <img src={Herobanner} alt="" className='h-4/5  w-full'/>
       </div>
         
     </div>
