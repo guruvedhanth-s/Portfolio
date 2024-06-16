@@ -3,6 +3,8 @@ import Navbar from '../components/Navbar'
 import HeroBanner from '../components/HeroBanner'
 import Tools from "../components/Tools"
 import About from '../components/About'
+import Quote from '../components/Quote'
+import Projects from '../components/Projects'
 
 function Landing() {
   return (
@@ -11,6 +13,8 @@ function Landing() {
         <HeroBanner/>
         <Tools/>
         <About/>
+        <Quote/>
+        <Projects/>
     </div>
   )
 }
