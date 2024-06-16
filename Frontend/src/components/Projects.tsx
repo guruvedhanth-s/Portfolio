@@ -1,4 +1,4 @@
-import React from 'react'
+
 import TechBuddy from "../assets/sample.jpg"
 function Projects() {
   return (
